@@ -3,7 +3,7 @@ import mediapipe as mp
 import cv2
 import math
 import numpy as np
-
+# Initialize Mediapipe pose and face mesh models
 mp_pose = mp.solutions.pose
 mp_face = mp.solutions.face_mesh
 
