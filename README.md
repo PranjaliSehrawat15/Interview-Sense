@@ -31,7 +31,7 @@ Visualization	Matplotlib (Pie Charts), Tkinter Canvas
 Packaging	requirements.txt for reproducible setup
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/nihals007/AI-Interview-Coach.git
+git clone [https://github.com/nihals007/AI-Interview-Coach.git](https://github.com/PranjaliSehrawat15/Interview-Sense)
 cd AI-Interview-Coach1
 
 2️⃣ Create & Activate a Virtual Environment
